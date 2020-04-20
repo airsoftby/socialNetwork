@@ -12,8 +12,7 @@ const Profile = () => {
       <div className={s.aboutMe}>
         ava + description
       </div>
-       <MyPosts/>
-
+      <MyPosts />
     </div>
   )
 }
